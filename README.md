@@ -17,7 +17,7 @@ The dataset contains 5 different excel workbooks which was loaded to power BI an
 - Mexican cuisine were mostly prefered by the consumers (97), which may be due to the fact that the dataset is about only Mexicans.
 - Totas Locas Hipocampo has the overall best ratings of 48, It has the best food and service ratings
 - The data sample contains majorly consumers between age 18-30 which makes it bias.
-![](Screenshot130.jpg)
+![](Screenshot130.png)
 
 
 
