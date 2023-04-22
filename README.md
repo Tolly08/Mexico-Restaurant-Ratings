@@ -9,7 +9,7 @@ The dataset contains 5 different excel workbooks which was loaded to power BI an
 - What is the characteristics of the highest rated restaurant?
 - Do consumer preference has effect on the ratings?
 
-# Insighet generated
+# Insights generated
 - We have 128 Consumers, 130 restaurants, 23 cuisines, average age of consumers (27), average overall ratings of 3.
 - 82% of the consumers are Students, 12% are employed, 5% are unknown and 1.45% are unemployed.
 - 90% are single, which is because majority are students. 7% are married and 3% are unknown.
@@ -17,6 +17,7 @@ The dataset contains 5 different excel workbooks which was loaded to power BI an
 - Mexican cuisine were mostly prefered by the consumers (97), which may be due to the fact that the dataset is about only Mexicans.
 - Totas Locas Hipocampo has the overall best ratings of 48, It has the best food and service ratings
 - The data sample contains majorly consumers between age 18-30 which makes it bias.
+![](Screenshot130.jpg)
 
 
 
